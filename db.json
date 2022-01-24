@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "email": "marcelo@kenzie.com",
+      "password": "$2a$10$BHG/xtJa88vNbKSO6heU5OqOTGoiVJl/VJGwLtFjRq0xGdPJS4wB6",
+      "name": "Marcelo",
+      "id": 1
+    },
+    {
+      "email": "carlos@kenzie.com",
+      "password": "$2a$10$3k/iLhoR38mARIa.RBBn9u5OsQVKeLbnHadGdRUDSXyDWqjQsDpdG",
+      "name": "Carlos",
+      "id": 2
+    },
+    {
+      "email": "marcelo1@kenzie.com",
+      "password": "$2a$10$kQ84mjGwEWn/WtbTkiUuouziWY.gK/JJSYPbX4A.9DcdoF8JIP9B2",
+      "name": "Marcelo",
+      "id": 3
+    },
+    {
+      "email": "marcelo2@kenzi.com",
+      "password": "$2a$10$TDqlI8hbMtyYr/mJ8e.HvOn2GvY.dEUU9rRbZ00eq30/2aPFfHUOS",
+      "name": "Marcelo",
+      "id": 4
+    },
+    {
+      "email": "marcelo4@kenzie.com",
+      "password": "$2a$10$Gtsehy2U9HcBUItEg4F/v.nXlBvRyV/NFqPAk7Z2h7.H6nFP2pBby",
+      "name": "Marcelo",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Hamburguer",
+      "category": "Sanduíches",
+      "price": 14,
+      "img": "https://i.ibb.co/642tBWS/hamburguer.png"
+    },
+    {
+      "id": 2,
+      "name": "X-Burguer",
+      "category": "Sanduíches",
+      "price": 16,
+      "img": "https://i.ibb.co/pRnLc5j/x-burgue.png"
+    },
+    {
+      "id": 3,
+      "name": "Big Kenzie",
+      "category": "Sanduíches",
+      "price": 18,
+      "img": "https://i.ibb.co/DYPpcK1/big-kenzie.png"
+    },
+    {
+      "id": 4,
+      "name": "Fanta Guaraná",
+      "category": "Bebidas",
+      "price": 5,
+      "img": "https://i.ibb.co/Hd3MTN2/fanta-guarana.png"
+    },
+    {
+      "id": 5,
+      "name": "Coca-Cola",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img": "https://i.ibb.co/x8zDMV0/coca-cola.png"
+    },
+    {
+      "id": 6,
+      "name": "Milkshake Ovomaltine",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img": "https://i.ibb.co/4ZsGty0/milkshake-ovomaltine.png"
+    },
+    {
+      "id": 7,
+      "name": "Combo Double-Kenzie e Coca-cola",
+      "category": "Combo",
+      "price": 19.99,
+      "img": "https://i.ibb.co/S3sDNzp/combo-double-kenzie-coca-cola.png"
+    },
+    {
+      "id": 8,
+      "name": "Sundae",
+      "category": "Bebidas",
+      "price": 3.49,
+      "img": "https://i.ibb.co/DrxG0WZ/sundae.png"
+    }
+  ]
+}
